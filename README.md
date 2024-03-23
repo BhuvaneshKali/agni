@@ -1,13 +1,13 @@
 # hello ,Everyone
 
-> This Project is was Submited 
+> This Project  was Submited 
 > by
 
 # APK Bhuvi
 
 I provide permision to use freely
 
-### if You to give any reward for my work 
-## please GPay 
+### if You want to give any reward for my work 
+## please GPay me
 
 ![Mass coder](./download.jpg)
